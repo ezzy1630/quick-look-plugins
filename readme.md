@@ -194,6 +194,14 @@ Run `brew install --cask cavoco/tap/preview3mf` or [download manually](https://g
 
 [![](screenshots/Preview3MF.png)](https://github.com/cavoco/Preview3MF)
 
+### [Downright](https://downright.cc)
+
+> Preview Markdown files as native documents with tables, task lists, callouts, syntax-highlighted code, Mermaid diagrams, and math. Text in the preview is selectable, and Finder thumbnails show the start of the document.
+
+[Download manually](https://github.com/ezzy1630/Downright/releases/latest)
+
+[![](screenshots/Downright.png)](https://github.com/ezzy1630/Downright)
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
